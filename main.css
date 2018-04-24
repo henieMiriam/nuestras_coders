@@ -1,0 +1,31 @@
+body{
+  background-color: gray;
+}
+hr{
+  border: 2px solid white;
+  left: 0;
+  width: auto;
+}
+section{
+  margin:2% 7%;
+  width: 60%;
+}
+.coder{
+  border: 2px solid black;
+  display: inline-block;
+  height:300px;
+  width: 20%;
+  margin: 1%;
+}
+.coder img{
+  width: 100%;
+  height: 85%;
+}
+div span{
+  color: gold;
+  text-align: right;
+  font-size: 100%;
+  font-style: italic;
+  font-family: cursive;
+
+}
